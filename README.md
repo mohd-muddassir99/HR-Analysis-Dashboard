@@ -41,3 +41,18 @@ Some calculated fields like;
        Attrition Rate  =  SUM([Attrition Count])/SUM([Employee Count])
 
 
+**3. Design and Development of the Dashboard**:
+
+- Create an interactive Tableau dashboard that visually represents key HR metrics.
+- Incorporate KPIs such as Total Employee Count, Active Employees, Attrition Count, and Attrition Rate for at-a-glance insights.
+
+**4. Visualize some HR Key Metrics** :
+| Key Metrics                           | Description                                                     |
+|-------------------------------------|-----------------------------------------------------------------|
+| **Attrition by Department**                  | Develop a **Pie Chart** to display Attrition by Department to identify departments with higher attrition rates.                   |
+| **Employee Age Distribution**           | Create a **Histogram** to analyze Employee Distribution by Age Group.        |
+| **Job Satisfaction Rate**          | Create a **Table** to visualize the overall job satisfaction across various roles.    |
+| **Attrition by Education Level**          | Create a **Column Chart** to visualize Attrition by Education Level, helping to understand the impact of education on employee retention..    |
+| **Attrition by Gender and Age Group**          | Develop a **Donut Charts** to show Attrition by Gender and Age Group, identifying patterns in attrition based on these demographics.                       |
+
+
