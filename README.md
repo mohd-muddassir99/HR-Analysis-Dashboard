@@ -55,4 +55,37 @@ Some calculated fields like;
 | **Attrition by Education Level**          | Create a **Column Chart** to visualize Attrition by Education Level, helping to understand the impact of education on employee retention..    |
 | **Attrition by Gender and Age Group**          | Develop a **Donut Charts** to show Attrition by Gender and Age Group, identifying patterns in attrition based on these demographics.                       |
 
+## Dashboard 🎛:
 
+![HR-ezgif com-video-to-gif-converter](https://github.com/mohd-muddassir99/Credit_Card_Financial_Dashboard/assets/153819384/adcd1e03-67fb-4afa-8f7f-40cda70f94a2)
+
+## Data Insights and Results 💡:
+- **Attrition by Department :** Departments such as Sales and R&D Department show higher attrition rates compared to others. This indicates potential issues in job satisfaction, work conditions, or management practices within these departments that need to be addressed to reduce turnover.
+
+- **Employee Age Distribution :** The majority of employees fall within the 30-40 age range, suggesting a relatively mature workforce. Younger employees (20-30) constitute a smaller segment, which might indicate a need for targeted recruitment strategies to attract younger talent.
+
+- **Attrition by Gender and Age Group :** Younger employees, particularly those aged 20-30, show higher attrition rates regardless of gender. This might suggest the need for targeted retention programs for younger employees, such as career development opportunities and mentorship programs.
+
+- **Overall Attrition Rate :** The overall attrition rate stands at 15%, which is relatively high. This underscores the need for immediate attention to employee engagement, satisfaction, and retention strategies to maintain a stable workforce.
+
+- **Key Drivers of Attrition :** Further analysis reveals that key drivers of attrition include job dissatisfaction, lack of career advancement opportunities, and work-life balance issues. Addressing these areas can significantly improve retention rates.
+
+## Recommendations 💡:
+Based on the analysis, here are some strategic recommendations to improve employee retention and organizational effectiveness:
+
+**Enhance Employee Engagement :**
+
+- Implement regular employee feedback mechanisms, such as surveys and focus groups, to understand and address employee concerns.
+- Increase recognition and reward programs to boost morale and job satisfaction.
+
+**Targeted Retention Programs :**
+
+- Develop specific retention programs for high-attrition departments, such as Sales and R&D.
+- Introduce mentorship and career development programs for younger employees to improve retention.
+
+**Training and Development :**
+
+- Invest in training and development programs for employees with lower education levels to enhance their skills and career growth potential.
+
+**Work-Life Balance Initiatives :**
+- Introduce flexible working hours and remote work options to improve work-life balance, which can help reduce attrition.
