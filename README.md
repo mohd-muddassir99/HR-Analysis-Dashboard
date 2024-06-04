@@ -89,3 +89,13 @@ Based on the analysis, here are some strategic recommendations to improve employ
 
 **Work-Life Balance Initiatives :**
 - Introduce flexible working hours and remote work options to improve work-life balance, which can help reduce attrition.
+
+
+View the live Tableau Dashboard here:
+
+<p align="center">
+    <a href="https://public.tableau.com/app/profile/mohd.muddassir/viz/HRANALYSISDASHBOARD_17173121230740/HRAnalysisDashboard">
+        <img src="https://www.svgrepo.com/show/324142/dashboard-graph-analytics-report.svg" width="65px" alt="Access Dataset"><br>
+        View
+    </a>
+</p> <br>
