@@ -1,4 +1,8 @@
-# HR Analysis Dashboard
+# HR Analysis Project
+<div align="center">
+    <img src="https://blog.pixentia.com/hubfs/quote01-jpg.jpeg" width="500px">
+</div>
+
 
 ## Introduction
 
