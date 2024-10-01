@@ -16,7 +16,7 @@ This project involves the creation of an **HR Analysis Dashboard** using Tableau
 - Incorporate KPIs such as Total Employee Count, Active Employees, Attrition Count, and Attrition Rate for at-a-glance insights.
 - Implement formulas to calculate these fields to derive meaningful insights.
 
-## Steps Followed in this Project :- 
+## Steps Followed in this Project :
 
 **1. Data Import and Cleaning** :
 
