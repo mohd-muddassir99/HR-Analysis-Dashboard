@@ -9,7 +9,7 @@
 This project involves the creation of an **HR Analysis Dashboard** using Tableau to visualize and analyze key HR metrics. Key performance indicators (KPIs) and various charts were created to provide actionable insights into the organization's HR dynamics. **HR Analysis** is crucial for optimizing human resource management processes. This dashboard analyzes extensive employee data to enhance strategic decision-making across recruitment, retention, and employee satisfaction.
 
 
-## Project Objective :- 
+## Project Objective :
 
 - To provide actionable insights and recommendations based on the visualized data to help HR managers make informed decisions.
 - Highlight trends, patterns, and potential areas of concern to improve overall HR strategies and policies.
