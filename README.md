@@ -1,4 +1,4 @@
-# HR Analysis Project
+# HR Analysi Project
 <div align="center">
     <img src="https://blog.pixentia.com/hubfs/quote01-jpg.jpeg" width="500px">
 </div>
